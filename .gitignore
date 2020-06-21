@@ -86,3 +86,5 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+sample_project/package-lock.json
